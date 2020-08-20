@@ -11,7 +11,7 @@
 ## Recommendations
 
 ### Creating a DevOps culture
-#### Fostering a collaborative culture
+* Fostering a collaborative culture
 	* ensuring that the QA team, Development team and the Operations team are not siloed from one another, but instead works together and committed to delivering value to their customers
 * Improved employees productivity 
 	* Automation reduces the amount of redundant manual work 
