@@ -10,15 +10,15 @@
 
 ## Recommendations
 
-### Creating a DevOps culture
+### Implementing a DevOps culture
 * Fostering a collaborative culture
-	* ensuring that the QA team, Development team and the Operations team are not siloed from one another, but instead works together and committed to delivering value to their customers
-* Improved employees productivity 
-	* Automation reduces the amount of redundant manual work 
-	* DevOps practices have shown to [increase employee productivity by 51%](https://clutch.co/it-services/resources/why-businesses-need-devops-engineers)
+	* ensuring that the QA team (Carol), Development team (Jayson) and the Operations team (Edmond) are not siloed from one another, but instead works together and committed to delivering value to their customers
 * [Increased revenue](https://www.zdnet.com/article/the-urgency-of-devops/)
 	* Organization adopting DevOps practices sees a 60% increased in revenue and profit growth
 	* 2.4x more likely than their competitors to be growing at more than 20% rate
+* Improved employees productivity 
+	* Automation reduces the amount of redundant manual work 
+	* DevOps practices have shown to [increase employee productivity by 51%](https://clutch.co/it-services/resources/why-businesses-need-devops-engineers)
 * [IImproved agility](https://www.techrepublic.com/article/why-adopting-devops-can-increase-profitability-productivity-and-market-share/) 
 	* Companies that have strong DevOps practices are shown to deploy their code 46x more frequently
 	* Have a faster lead time of 2555x from commit to deploment of the code
@@ -32,20 +32,19 @@
 		* Improved sales and ROI
 	
 	
-
-
 ### Technological components
-* Using NoSQL (eg. MongoDB)
+* Using NoSQL (eg. MongoDB) as the caching/intermediate storage concurrently with their existing SQL as the primary storage
 	* For better performance through sharding and reduces the risk of server crashing by having replications
 	* And for better horizontal scalability when there is an increased in traffic
 * Using GitHub
-	* For collaborative works, fostering the culture of continuous 
-* Using dockers
+	* For collaborative works, fostering a culture of continuous experimentation and learning
+* Using dockers containers
 	* For building lightweight, secure and portable apps
 	* Able to do an upgrade of dependencies or framework without worrying about altering what is working now
 	* Able to work on any machine
 * Using Kubernetes
-	* For automation deployment, sacling and managment of containerized apps
+	* For automation deployment, scaling and managment of containerized apps
+	* Jayson no longer has to spend his time troubleshooting production outages and can spend more time mentoring junior staff
 
 
 
