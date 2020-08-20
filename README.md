@@ -11,7 +11,7 @@
 ## Recommendations
 
 ### Creating a DevOps culture
-* Fostering a collaborative culture
+#### Fostering a collaborative culture
 	* ensuring that the QA team, Development team and the Operations team are not siloed from one another, but instead works together and committed to delivering value to their customers
 * Improved employees productivity 
 	* Automation reduces the amount of redundant manual work 
@@ -41,6 +41,11 @@
 * Using GitHub
 	* For collaborative works, fostering the culture of continuous 
 * Using dockers
+	* For building lightweight, secure and portable apps
+	* Able to do an upgrade of dependencies or framework without worrying about altering what is working now
+	* Able to work on any machine
+* Using Kubernetes
+	* For automation deployment, sacling and managment of containerized apps
 
 
 
