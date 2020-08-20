@@ -21,9 +21,9 @@
 	* Have a faster lead time of 2555x from commit to deploment of the code
 	* They also have a 7x lower change failure rate
 	* 2604x faster time in recovering from incidents
-* Improved in customer satisfaction
+* [Improved in customer satisfaction](https://clutch.co/it-services/resources/why-businesses-need-devops-engineers)
 	* Companies adopting DevOps experience a 45% improvement in customer satisfaction
-	* There is also a 74% increase in customer experience
+	* There is also a 74% [increase in customer experience](https://docs.broadcom.com/doc/accelerating-velocity-and-customer-value-with-agile-and-devops-research-paper)
 		* Higher Customer experience will result in greater customer loyalty
 		* better customer retention
 		* Improved sales and ROI
@@ -39,4 +39,4 @@
 
 
 
-Source
+
