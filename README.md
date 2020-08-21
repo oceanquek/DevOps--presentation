@@ -37,7 +37,7 @@
 	* For better performance through sharding and reduces the risk of server crashing by having replications
 	* And for better horizontal scalability when there is an increased in traffic
 * Using GitHub
-	* For collaborative works, fostering a culture of continuous experimentation and learning
+	* For collaborative works and version control, fostering a culture of continuous experimentation and learning
 * Using dockers containers
 	* For building lightweight, secure and portable apps
 	* Able to do an upgrade of dependencies or framework without worrying about altering what is working now
