@@ -3,10 +3,10 @@
 
 ## Assumption
 * BCM Pte Ltd offers a food delivery service to end users on their mobile application
-* Experience an increased in traffic during meal hours
+* Experienced an increased in traffic during meal hours
 * Current software development team is still using the waterfall model for application development
 * Company's IT system is still on-premise
-
+* No DevOps culture in place
 
 ## Recommendations
 
